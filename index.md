@@ -74,3 +74,7 @@ This event is a part of the [ELLIS Pre-NeurIPS Fest 2024: Celebrate, Connect, Co
 
 If you have any question, please contact us at [cvprinparis@gmail.com](mailto:neuripsinparis@gmail.com).
 
+---
+
+<img src="docs/assets/logo_scai.jpg" height="100"><img src="docs/assets/logo-hi-paris.png" height="100">
+
