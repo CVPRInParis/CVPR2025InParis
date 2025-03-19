@@ -2,7 +2,12 @@ CVPR@Paris 2025 is a 1-day event that takes place at Sorbonne Université on the
 
 Authors of all accepted papers at CVPR 2025 are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
 
-## <a href=https://cvprinparis.github.io/CVPR2025InParis/">Registration</a>
+<h2>
+  <a href="https://cvprinparis.github.io/CVPR2025InParis/" 
+     style="text-decoration: none; color: inherit;">
+    Registration
+  </a>
+</h2>
 
 The event is free but registration is mandatory. Registration are open <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog"> here</a>.
 
