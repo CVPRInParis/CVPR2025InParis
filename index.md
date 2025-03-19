@@ -4,7 +4,7 @@ Authors of all accepted papers at CVPR 2025 are given the opportunity to present
 
 ## Registration
 
-The event is free but registration is mandatory. Registration are open <a href="https://docs.google.com/forms/d/1f_2rbQn0_vlghIYEPqyX7x0iYK-7A9WuMdsxqMq6FWg/edit"> here</a>.
+The event is free but registration is mandatory. Registration are open <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog"> here</a>.
 
 ## Venue
 
