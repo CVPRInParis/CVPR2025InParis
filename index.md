@@ -1,6 +1,6 @@
-CVPR@Paris 2025 is a 1-day event that takes place at Sorbonne Université on the 6<sup>th</sup> of June 2025. This event provides a local alternative to the <a href="https://cvpr.thecvf.com/">CVPR conference</a>. It aims at addressing some sustainability and inclusivity concerns in Deep Learning and Computer vision research. All students and researchers are welcome to attend.
+CVPR@Paris 2025 is a 1-day event that takes place in center Paris on the 6<sup>th</sup> of June 2025. This event provides a local meeting related to the <a href="https://cvpr.thecvf.com/">CVPR conference</a>. It aims at addressing some sustainability and inclusivity concerns in Deep Learning and Computer vision research. All students and researchers are welcome to attend.
 
-Authors of all accepted papers at CVPR 2025 are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
+Authors of accepted papers at CVPR 2025 are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
 
 <h2>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog/" 
@@ -13,7 +13,7 @@ The event is free but registration is mandatory. Registration are open <a href="
 
 ## Venue
 
-This event will take place at Campus Jussieu (4 Place Jussieu, Paris 5ème).
+This event will take place in Paris.
 
 <!-- To access by metro, go to station Jussieu on the line 10. -->
 
@@ -21,7 +21,7 @@ This event will take place at Campus Jussieu (4 Place Jussieu, Paris 5ème).
 
 
 ## Schedule 
-The event is planned to start at 9am on May 6 and end at 4:30pm.
+The event is planned on June 6th.
 
 It will feature oral presentations and poster sessions of CVPR 2025.
 
@@ -41,12 +41,16 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ## Committees
 
-### Organizing committee
+### General Chairs
+
+<a href="https://cord.isir.upmc.fr/">Matthieu Cord</a> (Sorbonne University) <br>
+<a href="https://vicky.kalogeiton.info/">Vicky Kalogeiton</a> (École Polytechnique, IP Paris) <br>
+<a href="https://davidpicard.github.io/">David Picard</a> (École Nationale des Ponts et Chaussée, IP Paris) <br>
+
+### Program Chairs
 
 <a href="https://mustafashukor.github.io/">Mustafa Shukor</a> (Sorbonne University) <br>
 <a href="https://raphael-baena.github.io/">Raphael Baena</a> (École des Ponts ParisTech, ENPC) <br>
-<a href="https://davidpicard.github.io/">David Picard</a> (École des Ponts ParisTech, ENPC) <br>
-<a href="https://cord.isir.upmc.fr/">Matthieu Cord</a> (Sorbonne University) <br>
 
 <!-- 
 ### Advising committee
