@@ -32,21 +32,12 @@ Scheduler: TBA.
 
 ### Scientific presentations
 TBA
-<!-- 
-The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session.
+
+<!-- The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session.
 
 
 
-A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
-
-
-## Sustainability ambitions
-
-We aim to organize a local and sustainable alternative to in-person attendance to international ML conferences. To this aim:
-
-- we strongly encourage participants to NeurIPS@Paris to travel to Paris by sustainable means.
-- we offer fully vegeterian catering.
-- we encourage participants to consider as much as possible not flying to the main NeurIPS conference. -->
+A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>.  -->
 
 
 ## Committees
