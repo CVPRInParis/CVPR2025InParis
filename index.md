@@ -1,3 +1,5 @@
+# CVPR 2025 in Paris
+
 CVPR@Paris 2025 is a 1-day event that takes place at Sorbonne Université on the 6<sup>th</sup> of May 2025. This event provides a local alternative to the <a href="https://cvpr.thecvf.com/">CVPR conference</a>. It aims at addressing some sustainability and inclusivity concerns in Deep Learning and Computer vision research. All students and researchers are welcome to attend.
 
 Authors of all accepted papers at CVPR 2025 are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
