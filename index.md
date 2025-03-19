@@ -32,8 +32,9 @@ Scheduler: TBA.
 
 ### Scientific presentations
 TBA
-<!-- The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session. -->
 <!-- 
+The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session.
+
 #### Day 1 : 04.12.2024
 
 | **Time** | **Description** |
@@ -49,9 +50,9 @@ TBA
 | -----| ----------- |
 | 09:30 AM - 10:30 AM | Ethical and Trustworthy Machine Learning |
 | 11:00 AM - 12:15 PM | Optimisation, ML Methods and Algorithms |
-| 03:30 PM - 04:30 PM | Deep Learning and LLMs | -->
+| 03:30 PM - 04:30 PM | Deep Learning and LLMs |
 
-<!-- 
+
 A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
 
 ### Day 1 : 04.12.2024
@@ -75,16 +76,16 @@ A detailled list of papers for each session is available <a href="https://docs.g
 | 11:30 - 12:45 | Amphi 25 (Jussieu) | Session 4: Bandits, RL and Physics-Informed ML |
 | 12:45 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
 | 14:00 - 15:15 | SCAI (Jussieu) | Poster Session |
-| 15:00 - 16:00 | SCAI (Jussieu) | Mentoring | -->
-<!-- 
+| 15:00 - 16:00 | SCAI (Jussieu) | Mentoring |
+
 ## Sustainability ambitions
 
 We aim to organize a local and sustainable alternative to in-person attendance to international ML conferences. To this aim:
 
 - we strongly encourage participants to NeurIPS@Paris to travel to Paris by sustainable means.
 - we offer fully vegeterian catering.
-- we encourage participants to consider as much as possible not flying to the main NeurIPS conference.
- -->
+- we encourage participants to consider as much as possible not flying to the main NeurIPS conference. -->
+
 
 ## Committees
 
