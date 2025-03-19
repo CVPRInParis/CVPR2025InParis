@@ -35,48 +35,10 @@ TBA
 <!-- 
 The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session.
 
-#### Day 1 : 04.12.2024
-
-| **Time** | **Description** |
-| -----| ----------- |
-| 09:30 AM - 10:30 AM | Applications of Machine Learning |
-| 11:00 AM - 12:15 PM | Theory of Machine Learning |
-| 02:30 PM - 03:45 PM | Reinforcement Learning |
-
-
-#### Day 2 : 05.12.2024
-
-| **Time** | **Description** |
-| -----| ----------- |
-| 09:30 AM - 10:30 AM | Ethical and Trustworthy Machine Learning |
-| 11:00 AM - 12:15 PM | Optimisation, ML Methods and Algorithms |
-| 03:30 PM - 04:30 PM | Deep Learning and LLMs |
 
 
 A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
 
-### Day 1 : 04.12.2024
-
-| **Time** | **Place** | **Description** |
-| -----| ----------- |
-| 13:00 - 13:15 | Amphi 25 (Jussieu) |  Introduction Speech |
-| 13:15 - 14:45 | Amphi 25 (Jussieu) | Session 1: Theoretical Deep Learning and Optimization |
-| 14:45 - 15:15 | Amphi 25 (Jussieu) | Coffee Break |
-| 15:15 - 16:45 | Amphi 25 (Jussieu) | Session 2: Theoretical ML and Optimal Transport |
-| 16:45 - 18:00 | SCAI (Jussieu) | Poster Session |
-| 18:00 - 19:00 | SCAI (Jussieu) | Cocktail |
-
-### Day 2 : 05.12.2024
-
-| **Time** | **Place** | **Description** |
-| -----| ----------- |
-| 09:15 - 10:45 | Amphi 25 (Jussieu) | Session 3: Applied ML |
-| 10:45 - 11:15 | Amphi 25 (Jussieu) | Coffee break |
-| 11:15 - 11:30 | Amphi 25 (Jussieu) | WIMLDS Guest Session |
-| 11:30 - 12:45 | Amphi 25 (Jussieu) | Session 4: Bandits, RL and Physics-Informed ML |
-| 12:45 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
-| 14:00 - 15:15 | SCAI (Jussieu) | Poster Session |
-| 15:00 - 16:00 | SCAI (Jussieu) | Mentoring |
 
 ## Sustainability ambitions
 
