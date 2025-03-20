@@ -1,6 +1,6 @@
 CVPR@Paris 2025 is a 1-day event that takes place in center Paris on the 6<sup>th</sup> of June 2025. This event provides a local meeting related to the <a href="https://cvpr.thecvf.com/">CVPR conference</a>. It aims at addressing some sustainability and inclusivity concerns in Deep Learning and Computer vision research. All students and researchers are welcome to attend.
 
-Authors of accepted papers at CVPR 2025 are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
+Authors of accepted papersa t CVPR 2025, CVPR workshops, and recent international conference (ECCV 2024, Neurips 2024) are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
 
 <h2>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog/" 
