@@ -28,7 +28,7 @@ The event is planned on June 6th.
 | 09:30 AM - 09:45 AM | Opening |
 | 10:00 AM - 10:45 AM | Keynote: Alexei A. Efros (UC Berkeley) |
 | 11:00 AM - 12:30 PM | Poster Session 1 |
-| 12:30 PM - 02:00 PM | Poster Session 1 |
+| 12:30 PM - 02:00 PM | Lunch break |
 | 02:00 PM - 02:45 PM | Keynote: Diane Larlus (Naver Labs Europe)|
 | 03:00 PM - 03:45 PM | Keynote: Alexandre Alahi (EPFL)|
 | 04:00 PM - 05:30 PM | Poster Session 2 |
