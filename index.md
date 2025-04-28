@@ -25,7 +25,7 @@ The event is planned on June 6th.
 
 | **Time** | **Description** |
 | -----| ----------- |
-| 09:30 AM - 09:45 AM | Opening |
+| 09:30 AM - 10:00 AM | Coffe break and Opening |
 | 10:00 AM - 10:45 AM | Keynote: Alexei A. Efros (UC Berkeley) |
 | 11:00 AM - 12:30 PM | Poster Session 1 |
 | 12:30 PM - 02:00 PM | Lunch break |
