@@ -13,7 +13,9 @@ The event is free but registration is mandatory. Registration are open <a href="
 
 ## Venue
 
-This event will take place in center Paris.
+This event will take place at [Espaces du campus des Cordeliers](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-du-campus-des-cordeliers), in center of Paris.
+
+Adress: 15 rue de l'École-de-médecine 75006 Paris.
 
 <!-- To access by metro, go to station Jussieu on the line 10. -->
 
@@ -33,6 +35,7 @@ The event is planned on June 6th.
 | 03:00 PM - 03:45 PM | Keynote: Alexandre Alahi (EPFL)|
 | 04:00 PM - 05:30 PM | Poster Session 2 |
 
+Accepted posters can be found [here](https://docs.google.com/spreadsheets/d/1o1c242PUWKkwQcnq_dUMxO54Pgh8Uc1dwoLQLoLaVDg/edit?usp=sharing)
 
 <!-- ### Scientific presentations
 The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session. -->
