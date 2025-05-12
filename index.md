@@ -17,7 +17,7 @@ The event is free but registration is mandatory. Registration are open <a href="
 
 This event will take place at [Espaces du campus des Cordeliers](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-du-campus-des-cordeliers), in the center of Paris.
 
-Adress: 15 rue de l'École-de-médecine 75006 Paris.
+Address: 15 rue de l'École-de-médecine 75006 Paris.
 
 <!-- To access by metro, go to station Jussieu on the line 10.
 
